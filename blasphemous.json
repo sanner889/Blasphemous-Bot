@@ -1,0 +1,309 @@
+{
+    "bosses":{
+        "ten piedad":{
+            "name":"Ten piedad",
+            "location":"Tumba de la Misericordia",
+            "image":"https://static.wikia.nocookie.net/blasphemous/images/8/84/Ten_Piedad.png/revision/latest?cb=20190908131523",
+            "health":"Normal: 1200\nNG+: 3480",
+            "damage type":["Fisico"],
+            "lagrimas de enmienda": "Normal: 625\nNG+: 750",
+            "fases":"2",
+            "lore":"Ten Piedad era un hombre maldito, convertido en un ser monstruoso.\n\nSu conciencia humana permanece, refiriéndose a su forma bestial como su prisión y, mientras su cuerpo duerme, su ser interior despierta en sus sueños.\n\nCuando el Penitente lo mata, un chorro de sangre brota de la boca de la bestia, simbolizando probablemente la muerte del hombre que habitaba en Ten Piedad."
+        },
+        "guardian del lamento mudo":{
+            "name":"Guardian del Lamento Mudo",
+            "location":"Hermandad del Lamento Mudo",
+            "image":"https://static.wikia.nocookie.net/blasphemous/images/e/eb/Warden_of_the_Silent_Sorrow.png/revision/latest?cb=20190917211851",
+            "health":"Normal: 400\nNG+: 1460",
+            "damage type":["Fisico"],
+            "lagrimas de enmienda": "Normal: 300\nNG+: 360",
+            "fases":"1",
+            "lore":"... Escucho su lamento.\n\nEl que fue creído mudo desde el principio, puesto que hubo testigos del Primer Milagro. El afligido que pidió castigo y le fue concedido.\n\nEscucho su lamento.\n\nAunque el Padre ya no esté con nosotros, aunque solo sus imágenes, grandes y pequeñas, permanezcan en todos los lugares sagrados.\n\nEscucho su lamento.\n\nEs el Milagro lo que me hace oírlo; este es mi castigo como Hermano Mayor y guardián de esta congregación cuyo misterio es el silencio del Padre.\n\nEscucho su lamento y ya no quiero oírlo más. Haré que el tuyo cubra el Suyo. Esa es mi penitencia...\n\n- Guardian del lamento mudo"
+        },
+        "tres angustias":{
+            "name":"Tres Angustias",
+            "location":"Asciende el Quejido",
+            "image":"https://static.wikia.nocookie.net/blasphemous/images/c/cc/Tres_Angustias.png/revision/latest?cb=20190908131724",
+            "health":"Normal: 1800\nNG+: 4020",
+            "damage type":["Fisico","Relampago","Mistico"],
+            "lagrimas de enmienda": "Normal: 2100\nNG+: 2520",
+            "fases":"2",
+            "lore":"Posiblemente relacionadas con Altasgracias, tres hermanas obligadas a tomar un matrimonio forzado, las cuales rezaron al Milagro para ser salvadas, fusionándolas en un solo ser el día de su boda.\n\nParecen ser la manifestación del gran dolor y angustia de Altasgracias, a la que el Milagro le da forma tangible.\n\nTres Angustias es también la causa del gemido triuno que emana de Jondo, el cual se puede oír durante la exploración, tal como lo afirma Redento."
+        },
+        "nuestra señora de la faz denegrida":{
+            "name":"Nuestra Señora de la Faz Denegrida",
+            "location":"Convento de la Faz Denegrida",
+            "image":"https://static.wikia.nocookie.net/blasphemous/images/d/dc/Our_Lady_of_the_Charred_Visage.png/revision/latest?cb=20190915195934",
+            "health":"Normal: 1400\nNG+: 3360",
+            "damage type":["Fisico","Fuego","Mistico"],
+            "lagrimas de enmienda": "Normal: 2600\nNG+: 3120",
+            "fases":"1",
+            "lore":"Una joven aldeana llamada Áurea tenía un rostro tan bello y piadoso que, incluso de niña, los escultores la tomaban como modelo para sus creaciones.\n\nSu rostro se hizo tan reconocible que, poco a poco, la gente la confundió con la imagen viviente de la divinidad, hasta que llegó un punto en que la llevaban en procesión e incluso la usaban para reemplazar sus propias imágenes.\n\nTal era el fervor que la rodeaba que no soportaba ser confundida con la divinidad, y se quemó el rostro con aceite hirviendo para ofrecer su piadosa belleza a Dios, y tomó los hábitos de un convento.\n\nPasaron los años y comenzó a mostrar signos naturales de envejecimiento, al igual que sus compañeras, excepto por la quemadura, que permanecía tan fresca como en el momento en que se derramó el aceite hirviendo. La herida aún humeaba, quemaba y desprendía un olor fétido.\n\nEsto se consideró un milagro, y fue canonizada en vida por la Iglesia; se la conoció como Nuestra Señora de la Faz Denegrida.\n\nSe fundó una orden religiosa en su nombre, donde todas las monjas existentes, así como aquellas que deseaban tomar el hábito, debían quemarse el rostro de la misma manera que Áurea.\n\nElla lleva una máscara dorada bajo la cual oculta la gasa que alivia el dolor eterno que aún le infligen las quemaduras."
+        },
+        "esdras de la legion ungida":{
+            "name":"Esdras de la Legion Ungida",
+            "location":"Puente de los Tres Calvarios",
+            "image":"https://static.wikia.nocookie.net/blasphemous/images/a/a6/Esdras.png/revision/latest?cb=20190915203237",
+            "health":"Normal: 2000\nNG+: 3100",
+            "damage type":["Fisico","Relampago"],
+            "lagrimas de enmienda": "Normal: 4300\nNG+: 5160",
+            "fases":"2",
+            "lore":"Esdras y Perpetva son hermanos expósitos, separados de su familia cuando eran niños, acogidos y entrenados por la Iglesia Madre para convertirse en miembros de su guardia sagrada, la Legión Ungida.\n\nPerpetva murió en batalla, probablemente protegiéndolo, lo que pudo haber causado su muerte, como indica la frase: ''El Milagro me protegerá. No necesito tu protección esta vez''.\n\nEsto dejó a Esdras marcado, incapaz de afrontar la muerte de su amada hermana. Enloqueció a causa del trauma, hablándole a su hermana como si aún estuviera viva y presente, y el resto de los miembros de la Legión lo declararon demente.\n\nLa negación de Esdras sobre la muerte de su hermana, su deseo de su compañía y su visión angelical de ella como suprema y divina, una soldado justa, llevaron a que El Milagro se manifestara, creando una Perpetva falsa a través del Celo Milagroso; la capa que llevaba la verdadera se transformó en alas que le permitirían volar a la falsa.\n\nPoseía su rostro y armadura, pero no su voz, probablemente porque se comunicaba con Esdras telepáticamente.\n\nEl impostor, creado según la visión heroica y grandiosa que Esdras tenía de su hermana, vería al Penitente como un blasfemo e intentaría detenerlo.\n\nAsí que Esdras hizo lo mismo: el impostor lo manipuló para convertirlo en otro obstáculo y desafío en la peregrinación de la expiación y el arrepentimiento.\n\nVio la increíble fuerza del Penitente y se convenció de que cometería crímenes contra la Iglesia Madre."
+        },
+        "perpetva":{
+            "name":"Perpetva",
+            "location":"Serrania del Ocaso Perpetuo / Puente de los tres calvarios",
+            "image":"https://static.wikia.nocookie.net/blasphemous/images/c/c6/Perpetva.png/revision/latest?cb=20190908131556",
+            "health":"Normal: 420\nNG+: 1200",
+            "damage type":["Fisico","Relampago"],
+            "lagrimas de enmienda": "Normal: 300\nNG+: 360",
+            "fases":"1",
+            "lore":"Esdras y Perpetva son hermanos expósitos, separados de su familia cuando eran niños, acogidos y entrenados por la Iglesia Madre para convertirse en miembros de su guardia sagrada, la Legión Ungida.\n\nPerpetva murió en batalla, probablemente protegiéndolo, lo que pudo haber causado su muerte, como indica la frase: ''El Milagro me protegerá. No necesito tu protección esta vez''.\n\nEsto dejó a Esdras marcado, incapaz de afrontar la muerte de su amada hermana. Enloqueció a causa del trauma, hablándole a su hermana como si aún estuviera viva y presente, y el resto de los miembros de la Legión lo declararon demente.\n\nLa negación de Esdras sobre la muerte de su hermana, su deseo de su compañía y su visión angelical de ella como suprema y divina, una soldado justa, llevaron a que El Milagro se manifestara, creando una Perpetva falsa a través del Celo Milagroso; la capa que llevaba la verdadera se transformó en alas que le permitirían volar a la falsa.\n\nPoseía su rostro y armadura, pero no su voz, probablemente porque se comunicaba con Esdras telepáticamente.\n\nEl impostor, creado según la visión heroica y grandiosa que Esdras tenía de su hermana, vería al Penitente como un blasfemo e intentaría detenerlo.\n\nAsí que Esdras hizo lo mismo: el impostor lo manipuló para convertirlo en otro obstáculo y desafío en la peregrinación de la expiación y el arrepentimiento.\n\nVio la increíble fuerza del Penitente y se convenció de que cometería crímenes contra la Iglesia Madre."
+        },
+        "melquiades el arzobispo exhumado":{
+            "name":"Melquiades El Arzobispo Exhumado",
+            "location":"Madre de Madres",
+            "image":"https://www.korosenai.es/wp-content/uploads/2019/09/melquiades-blasphemous.jpg",
+            "health":"Normal: 1500\nNG+: 2900",
+            "damage type":["Fisico"],
+            "lagrimas de enmienda": "Normal: 5500\nNG+: 6600",
+            "fases":"1",
+            "lore":"Melquiades fue un arzobispo querido en Madre de Madres, posiblemente con gran influencia, tanto que sus fieles no aceptaron su muerte.\n\nDurante la exhumación del arzobispo, sus restos fueron purificados con vino y cubiertos con seda, oro y joyas.\n\nLos fieles besaron sus manos y colocaron anillos en sus dedos antes de alzarlo entre varios hombres, meciéndolo lentamente mientras pronunciaban su nombre, como si intentaran hacerlo caminar una vez más."
+        },
+        "exposito producto de la abjuracion":{
+            "name":"Expósito, Vástago de la Abjuración",
+            "location":"Los Lienzos Durmientes",
+            "image":"https://static.wikia.nocookie.net/blasphemous/images/d/d3/Exposito.png/revision/latest?cb=20190915212429",
+            "health":"Normal: 1500\nNG+: 2450",
+            "damage type":["Miasma","Fisico"],
+            "lagrimas de enmienda": "Normal: 9000\nNG+: 10800",
+            "fases":"1",
+            "lore":"Cuando iban a llevarla a la hoguera, los inquisidores le arrebataron al bebé de los brazos, y ella gritó, suplicando que el niño no la viera arder.\n\nAl niño, que la miraba desde lejos, empapado en lágrimas, le vendaron los ojos; la venda se humedeció al instante.\n\nLa hoguera estaba rodeada de gente que había acudido a presenciar la ejecución. Gritaban, llamándola bruja y hereje.\n\nCuando las llamas empezaron a lamer la leña, ella le pidió a un alma bondadosa que construyera una figura de mimbre a su imagen y semejanza, y que pusiera al niño en sus brazos para que no la echara de menos.\n\nY así lo hicieron, y cuando la figura estuvo terminada, pusieron al niño que lloraba desconsoladamente en sus brazos, y el huérfano dejó de llorar al instante.\n\nEl Milagro fue misericordioso una vez más."
+        },
+        "quirce el devuelto por las llamas":{
+            "name":"Quirce, el Devuelto por las Llamas",
+            "location":"Muralla de las santas prohibiciones",
+            "image":"https://static.wikia.nocookie.net/blasphemous/images/c/c8/Quirce.png/revision/latest?cb=20190916195759",
+            "health":"Normal: 2700\nNG+: 3780",
+            "damage type":["Fuego","Fisico"],
+            "lagrimas de enmienda": "Normal: 11250\nNG+: 13500",
+            "fases":"2",
+            "lore":"Fue injustamente condenado a la hoguera por herejía, y los inquisidores presenciaron cómo las llamas envolvían su cuerpo en medio de una atroz comunión de oraciones y lamentos.\n\nSin embargo, cuando todo terminó y las llamas se extinguieron, el misericordioso Milagro las hizo resurgir, y de ellas, de las cenizas y brasas, el cuerpo de Quirce volvió a la vida.\n\nLas llamas lo trajeron de vuelta una y otra vez, en una tortura sin igual. Ardiendo y ardiendo de nuevo. Gritando y gritando de nuevo.\n\nQuirce sabía cuál sería su penitencia."
+        },
+        "crisanta de la agonia vendada":{
+            "name":"Crisanta de la Agonia Vendada",
+            "location":"Altos de la Archicatedral",
+            "image":"https://static.wikia.nocookie.net/blasphemous/images/f/f7/Crisanta_of_the_Wrapped_Agony.png/revision/latest?cb=20190918202953",
+            "health":"Normal: 2900 + 4350 (fase 3) \nNG+: 3560 + 4350 (fase 3)",
+            "damage type":["Mistico","Fisico","Relampago"],
+            "lagrimas de enmienda": "Normal: 18000\nNG+: 21600",
+            "fases":"3",
+            "lore":"Crisanta de la Agonía Envuelta fue la guerrera más fiel de las Altas Voluntades y la ejecutora elegida para detener al Penitente.\n\nSu fe era absoluta, ciega e inquebrantable, al punto de entregar completamente su alma al dogma del Milagro.\n\nCuando el Penitente obtiene el verdadero corazón del Mea Culpa y la derrota, en lugar de matarla rompe las cadenas invisibles que la ataban a esa fe.\n\nEsa liberación le provoca una herida espiritual mucho más profunda que cualquier daño físico, pues la obliga a comprender que toda su devoción estaba basada en una mentira manipulada por las Altas Voluntades.\n\nTras alcanzar esa claridad, Crisanta abandona su papel como verdugo y se convierte en aliada del Penitente.\n\nComprende que él es el único capaz de terminar el ciclo eterno del sufrimiento y decide ayudarlo, entregándole la Santa Herida de la Abnegación y luchando junto a él contra Escribar y finalmente contra las Altas Voluntades."
+        },
+        "su santidad escribar (fase 1)":{
+            "name":"Su Santidad Escribar",
+            "location":"Deambulatorio de Su Santidad",
+            "image":"https://static.wikia.nocookie.net/blasphemous/images/5/54/Escribar.png/revision/latest?cb=20190917211017",
+            "health":"Normal: 1000\nNG+: 2600",
+            "damage type":["Mistico","Fisico","Fuego","Miasma"],
+            "lagrimas de enmienda": "Normal: 0\nNG+: 0",
+            "fases":"2",
+            "lore":"Escribar fue el Sumo Pontífice y máximo líder de la Iglesia Madre, la despiadada teocracia que gobernaba Cvstodia bajo el temor constante al Milagro.\n\nDurante su mandato, la fe se convirtió en una doctrina basada en el miedo, donde el más mínimo pecado era castigado con extrema severidad y la penitencia era considerada la única forma correcta de vivir.\n\nEscribar dedicó su vida a predicar sobre el castigo divino y a servir al Milagro con absoluta devoción. Sin embargo, terminó convencido de que ni él ni el pueblo eran dignos del Milagro.\n\nConsumido por la desesperación, giró su enorme trono dorado y le dio la espalda a la congregación, declarando que el Milagro los había abandonado.\n\nSu penitencia fue escuchada. El Milagro transformó lentamente su cuerpo en un gigantesco árbol de sangre y corteza.\n\nDesde esa forma observó Cvstodia hasta que el árbol ardió desde dentro durante noventa días, dejando una montaña de ceniza en el Deambulatorio de Su Santidad.\n\nAquellos que tocaron las cenizas fueron deformados y renacieron como los Castigados.\n\nCon el tiempo, Escribar renació como una monstruosa entidad conocida como el Último Hijo del Milagro, convertido en el símbolo definitivo del sufrimiento eterno y de la corrupción de la fe en Cvstodia.\n\nDesde su trono aguardó la llegada del Penitente, consciente de que este avanzaba para desafiar el ciclo del Milagro y enfrentarse tanto a él como a las Altas Voluntades."
+        },
+        "hijo ultimo del milagro (fase 2)":{
+            "name":"Hijo Ultimo del Milagro",
+            "location":"Deambulatorio de Su Santidad",
+            "image":"https://static.wikia.nocookie.net/blasphemous/images/7/74/Last_Son_of_the_Miracle.png/revision/latest?cb=20190922142528",
+            "health":"Normal: 1800\nNG+: 2320",
+            "damage type":["Fisico","Fuego","Miasma"],
+            "lagrimas de enmienda": "Normal: 10\nNG+: 10",
+            "fases":"2",
+            "lore":"Escribar fue el Sumo Pontífice y máximo líder de la Iglesia Madre, la despiadada teocracia que gobernaba Cvstodia bajo el temor constante al Milagro.\n\nDurante su mandato, la fe se convirtió en una doctrina basada en el miedo, donde el más mínimo pecado era castigado con extrema severidad y la penitencia era considerada la única forma correcta de vivir.\n\nEscribar dedicó su vida a predicar sobre el castigo divino y a servir al Milagro con absoluta devoción. Sin embargo, terminó convencido de que ni él ni el pueblo eran dignos del Milagro.\n\nConsumido por la desesperación, giró su enorme trono dorado y le dio la espalda a la congregación, declarando que el Milagro los había abandonado.\n\nSu penitencia fue escuchada. El Milagro transformó lentamente su cuerpo en un gigantesco árbol de sangre y corteza.\n\nDesde esa forma observó Cvstodia hasta que el árbol ardió desde dentro durante noventa días, dejando una montaña de ceniza en el Deambulatorio de Su Santidad.\n\nAquellos que tocaron las cenizas fueron deformados y renacieron como los Castigados.\n\nCon el tiempo, Escribar renació como una monstruosa entidad conocida como el Último Hijo del Milagro, convertido en el símbolo definitivo del sufrimiento eterno y de la corrupción de la fe en Cvstodia.\n\nDesde su trono aguardó la llegada del Penitente, consciente de que este avanzaba para desafiar el ciclo del Milagro y enfrentarse tanto a él como a las Altas Voluntades."
+        },
+        "escribar centinela de las procesiones eternas":{
+            "name":"Escribar, Centinela de las Procesiones Eternas",
+            "location":"Via de las Procesiones Eternas",
+            "image":"https://static.wikia.nocookie.net/blasphemous/images/8/8f/Escribar%2C_Sentinel_of_the_Eternal_Procession.png/revision/latest?cb=20230821224751",
+            "health":"???",
+            "damage type":["???"],
+            "lagrimas de enmienda": "Normal: 0\nNG+: 0",
+            "fases":"4",
+            "lore":"Escribar fue el Sumo Pontífice y máximo líder de la Iglesia Madre, la despiadada teocracia que gobernaba Cvstodia bajo el temor constante al Milagro.\n\nDurante su mandato, la fe se convirtió en una doctrina basada en el miedo, donde el más mínimo pecado era castigado con extrema severidad y la penitencia era considerada la única forma correcta de vivir.\n\nEscribar dedicó su vida a predicar sobre el castigo divino y a servir al Milagro con absoluta devoción. Sin embargo, terminó convencido de que ni él ni el pueblo eran dignos del Milagro.\n\nConsumido por la desesperación, giró su enorme trono dorado y le dio la espalda a la congregación, declarando que el Milagro los había abandonado.\n\nSu penitencia fue escuchada. El Milagro transformó lentamente su cuerpo en un gigantesco árbol de sangre y corteza.\n\nDesde esa forma observó Cvstodia hasta que el árbol ardió desde dentro durante noventa días, dejando una montaña de ceniza en el Deambulatorio de Su Santidad.\n\nAquellos que tocaron las cenizas fueron deformados y renacieron como los Castigados.\n\nCon el tiempo, Escribar renació como una monstruosa entidad conocida como el Último Hijo del Milagro, convertido en el símbolo definitivo del sufrimiento eterno y de la corrupción de la fe en Cvstodia.\n\nDesde su trono aguardó la llegada del Penitente, consciente de que este avanzaba para desafiar el ciclo del Milagro y enfrentarse tanto a él como a las Altas Voluntades."
+        },
+        "isidora voz de los muertos":{
+            "name":"Isidora Voz de los Muertos",
+            "location":"Albero",
+            "image":"https://static.wikia.nocookie.net/blasphemous/images/5/57/Isidora%2C_Voice_of_the_Dead.png/revision/latest?cb=20230821134512",
+            "health":"Normal: 5000\nNG+: 7500",
+            "damage type":["Fisico","Fuego"],
+            "lagrimas de enmienda": "Normal: 0\nNG+: 0",
+            "fases":"2",
+            "lore":"Los niños abrieron las puertas de sus casas y salieron corriendo tras ella gritando: «¡Isidora! ¡Cántanos, Isidora!».\n\nPero, aún vestida con uno de sus extravagantes trajes de escenario, Isidora no les cantó aquella noche.\n\nEn cambio, se dirigió al cementerio y se detuvo ante la entrada de la cripta que conecta con el osario bajo la antigua iglesia de Albero.\n\nLos niños, intrigados, guardaron silencio tras las rejas de hierro.\n\nY fue entonces cuando comenzó a entonar versos que nadie había oído jamás.\n\nPoco después, se oyó otra voz lejana que acompañaba la triste melodía desde las profundidades de la cripta, formando un dúo hermoso pero melancólico.\n\nLa dama cruzó el arco de piedra, cerrando la puerta tras de sí.\n\nMientras su voz se desvanecía en la distancia, más y más voces se unieron a ella, como si un gran coro de decenas la esperara al pie de las escaleras.\n\nCuando la canción llegó a su fin y oyeron los últimos acordes que surgían de la tierra, los niños se marcharon con lágrimas en los ojos y el cementerio recuperó su silencio habitual.\n\nJamás se volvió a ver a la mujer que cantaba, y desde entonces se la recuerda como Isidora, la Señora del Osario y la voz de los muertos."
+        },
+        "sierpes":{
+            "name":"Sierpes",
+            "location":"Luto & Estrago",
+            "image":"https://static.wikia.nocookie.net/blasphemous/images/7/73/Sierpes.png/revision/latest?cb=20230821143043",
+            "health":"Normal: 10000\nNG+: 18000",
+            "damage type":["Fisico","Relampago"],
+            "lagrimas de enmienda": "Normal: 0\nNG+: 0",
+            "fases":"4",
+            "lore":"Una maldición sobre ti.\n\nUna maldición sobre tu sombra bajo las aguas oscuras que se retuerce enredada en extraños jeroglíficos.\n\nUna maldición sobre tus escamas blancas que reflejan la pálida luz de nuestras lunas.\n\nUna maldición sobre las joyas que adornan tus cuellos informes.\n\nY una maldición sobre el Ojo, tu ojo dorado que llama a los hombres y a las tormentas a morir ante ti."
+        }
+    },
+    "prayers":{
+        "alborada del guardian sin nombre":{
+            "name":"Alborada del Guardián Sin Nombre",
+            "get":"Recibido al vencer a las cuatro Amanecidas del Milagro, cuando se combinan los cuatro Versos hilados de oro. Solo en partidas NG+",
+            "use":"Esta plegaria proporciona un compañero fantasma gigante que empuña una espada y sigue al Penitente. Cuando mira en la misma dirección, imita tanto ataques como bloqueos. Cada 1,8 segundos imita ambos. Los ataques infligen 180 de daño y pueden destruir proyectiles, mientras que los bloqueos otorgan 0,5 segundos de invencibilidad e inmunidad al aturdimiento.",
+            "description":"Canto a un sol extinto, nacido de cuatro voluntades hiladas en oro. Da forma al dolor de las Amanecidas, creando un espectro que acompaña a Penitente durante un tiempo, obedeciendo sus órdenes. Laudes trenzó su pasión en cuatro guerreras que combatieron junto a ella, resistiendo el embate de los siglos.",
+            "lore":"Noche, que duermes a cuatro soles\nOlvida tus fríos y tus azules\n\nEs la luz de la aurora\nQue levanta tu velo con sus faroles\n\nEn los balcones ya canta\nEn los balcones ya suena\n\nCon ella se van las estrellas\nCon ella se va mi condena\n\nEs la luz de la aurora\nEs la niña de gracias llena\n",
+            "img":"https://preview.redd.it/alborada-del-guardi%C3%A1n-sin-nombre-no-es-tan-genial-como-v0-xyexxa0lpwof1.jpeg?auto=webp&s=a5f944a9fbf2ef73f2e799c1952a4cf457d5a316",
+            "location":""
+        },
+        "campanillero a los hijos de la aurora":{
+            "name":"Campanillero a los Hijos de la Aurora",
+            "get":"Se consigue reuniendo a los 38 Niños de la Luz Lunar y entregándolos a Jocinero en el cuadro del Toro y la Luna situado en Los Lienzos Durmientes.",
+            "use":"Esta plegaria invoca la ayuda de siete querubines que sobrevuelan al Penitente. Tras fijar un objetivo, se acercan a él, se cargan, adquieren un color azul y disparan un láser una vez antes de desaparecer. Cada uno de los siete querubines inflige 40 puntos de daño con un intervalo mínimo de un segundo.",
+            "description":"Antiguo cante a la luna, que llama al auxilio de sus vástagos. Invoca una corte de querubines que acompañan a Penitente, atacando a enemigos cercanos.",
+            "lore":"Arrodillados estamos, al suelo miramos\nPero si nos nombráis en voz alta\nMarcharemos en procesión\nA vuestra aurora de castigo\nEsperando vuestro perdón\n\nArrodillados estamos, al suelo miramos\nPero si vuestra mano se alza\nMarcharemos en procesión\nA vuestra aurora de castigo\nEsperando vuestro perdón\n",
+            "img":"https://static.wikia.nocookie.net/blasphemous/images/d/d5/Screenshot_Campanillero_to_the_Sons_of_the_Aurora.png/revision/latest/scale-to-width-down/1000?cb=20200811024239",
+            "location":"https://static.wikia.nocookie.net/blasphemous/images/5/59/Campanillero_to_the_Sons_of_the_Aurora_Attack.gif/revision/latest?cb=20200811231515"
+        },
+        "cante jondo de las tres hermanas":{
+            "name":"Cante Jondo de las Tres Hermanas",
+            "get":"El Cante Jondo de las Tres Hermanas es una oración que se encuentra en un cofre dorado en los tejados de la Archicatedral. Para acceder a él, se necesitan las reliquias Tres Lenguas Nudosas y Lino de Hilo Dorado.",
+            "use":"Genera una onda expansiva que se fija en todos los enemigos en pantalla y les inflige daño mientras aparece una imagen de Tres Angustias sobre El Penitente. Todos los enemigos, desde el más cercano al más lejano, reciben 210 puntos de daño, atacando a cada uno con un intervalo de 0,6 segundos.",
+            "description":"Cante imposible de resonar en garganta humana. Nunca existió voz capaz de entonar esta plegaria, que vanamente trata de emular el retumbar de la colosal espiral de hierro invertida. Su ciclópeo rugido destruye los órganos y hace estallar los huesos, dañando gravemente a todos los enemigos cercanos.",
+            "lore":"Liberadas, tres rezasteis como una\nLiberadas, tres pedisteis como una\nLiberadas, tres nacisteis como una\n\nLibre y santa, Divina hermosura\nYa no sois tres, ahora sois una.\n",
+            "img":"https://i.ytimg.com/vi/smBXVJmsZyY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD65bLj_zbPJhSyAzuoiMjUilCi4w",
+            "location":"https://www.korosenai.es/wp-content/uploads/2020/09/cante-jondo-tres-hermanas.jpg"
+        },
+        "debla de las luces":{
+            "name":"Debla de las Luces",
+            "get":"Debla de las Luces es una oración que Lvdovico entrega en Albero como recompensa por completar la misión del Santuario Verdadero.",
+            "use":"Esta plegaria proyecta un gran pilar de luz azul que envuelve al Penitente y cubre sus alrededores. El rayo inflige 4 momentos de 55 de daño cada 0,4 s, y además otorga 2 segundos de invulnerabilidad e inmunidad al aturdimiento al ser lanzado.",
+            "description":"Invoca un haz de luz celestial en la posición de Penitente, que castiga con implacable fuerza a los enemigos cercanos.",
+            "lore":"Tengo ojos y no puedo veros\nVuestras luces de fuego me ciegan adentro\n\nArriba en el cielo hay palomas de cera\nQue derriten sus alas sembrando la tierra\n\nSi me llamáis, dejad que me queme\nOjos y carne, manos y pelo\nQuiero veros y no puedo\n",
+            "img":"https://static.wikia.nocookie.net/blasphemous/images/4/4c/Debla_of_the_Lights.gif/revision/latest?cb=20200811231830",
+            "location":"https://blasphemous.wiki.gg/images/archive/20260329085210%21Albero.png?51711e"
+        },
+        "taranto a la hermana mia":{
+            "name":"Taranto a la Hermana Mía",
+            "get":"Se obtiene en el Puente de los Tres Calvarios tras la batalla contra el jefe Esdras, independientemente del resultado que se consiga.",
+            "use":"Esta plegaria proporciona 3 rayos a la izquierda y a la derecha del Penitente, impactando un total de 8 veces en un lapso de 1,25 segundos. Cada impacto inflige 20 puntos de daño, y recitar la plegaria otorga 2 segundos de invulnerabilidad e inmunidad al aturdimiento.",
+            "description":"Plegaria a las tormentas, entonada por gargantas secas y voces quebradas. Invoca rayos abrasadores que atraviesan as nubes, fulminando a los enemigos cercanos.",
+            "lore":"Hermana Mía, no te alejes de mí\nQue te tengo presente en mi pecho y en mi corazón\n\nHermana Mía, no me dejes herido de muerte\nQue te tengo presente en mi pecho y en mi sangre\n\nHermana Mía, no dejes de hablarme\nQue te tengo presente en mi pecho y en mi cante\n",
+            "img":"https://static.wikia.nocookie.net/blasphemous/images/c/c7/Taranto_to_My_Sister.gif/revision/latest?cb=20200811232123",
+            "location":"https://static.wikia.nocookie.net/blasphemous/images/6/6f/Map_Bridge_of_the_Three_Calvaries.jpg/revision/latest/scale-to-width-down/1000?cb=20190912214920"
+        },
+        "cantiña de la rosa azul":{
+            "name":"Cantiña de la Rosa Azul",
+            "get":"Se obtiene dentro de Todas las lágrimas del mar tras completa todas las pruebas de Miriam.",
+            "use":"Esta plegaria crea un espejo de cristal flotante que apunta en la misma dirección que El Penitente y libera a Miriam al atacar, asestando un golpe que invoca púas de cristal más allá del punto de impacto inicial. El golpe inicial inflige 100 de daño, y se invocan púas cada 0,2 segundos, infligiendo 40 de daño cada una y dejando a todos los enemigos vulnerables a la ejecución.",
+            "description":"Plegaria jamás escrita, que resuena al sujetar un cristal violeta venido de otro mundo. Un juramento de amistad permite atravesar esas frontera, invocando a Miriam a través de la vidriera para atacar y aturdir a enemigos del Penitente con su poderoso acero, Eternal Blue.",
+            "lore":"Niña de flores\nY de azules pintada\n\nNiña del espejo\nCubierto de malvas\n\nVuelve a mi vera\nEscucha mi llamada\n\nQue mis ojos vean\ntu noche de magia.\n",
+            "img":"https://i.ytimg.com/vi/sNWlmflZOfM/maxresdefault.jpg",
+            "location":"https://preview.redd.it/all-blue-rose-doorway-locations-v0-hqx612pzzbi61.jpg?width=640&crop=smart&auto=webp&s=af3e5c7dbbe60c1b84966b684317b7cb84b6f296"
+        },
+        "lorquiana":{
+            "name":"Lorquiana",
+            "get":"Se consigue en la Biblioteca de las Palabras Negadas, detrás de una verja, que se abre con una palanca, donde necesitas Sangre Perpetuada en Arena para llegar.",
+            "use":"Esta oración proporciona tres rayos que se disparan a través de la pantalla en la dirección en la que mira El Penitente. Cada rayo se dispara con un intervalo de 0,2 segundos e inflige 90 puntos de daño.",
+            "description":"Rezo que convoca una andanada de rayos nacidos de la propia esencia del Milagro, atravesando a aquellos que se atreven a enfrentar a Mea Culpa.",
+            "lore":"Somos piedras de esta tierra\nSomos brotes de estas ramas\nSomos, en procesión, unidos\nLos que con fervor te claman\n\nOh, Milagro Doloroso\nSácanos de estas llamas.\n",
+            "img":"https://static.wikia.nocookie.net/blasphemous/images/6/65/Lorquiana.gif/revision/latest?cb=20200811231906",
+            "location":"https://static.wikia.nocookie.net/blasphemous/images/c/c9/Screenshot_Location_Lorquiana.jpg/revision/latest/scale-to-width-down/1000?cb=20190918192131"
+        },
+        "mirabras regreso al puerto":{
+            "name":"Mirabrás del Regreso al Puerto",
+            "get":"Adquirido en Luto y Estrago dentro de un cofre dorado.",
+            "use":"Esta oración invoca la imagen azul de una dama que sostiene una lámpara que envuelve al Penitente y lo transporta al último Prie Dieu descansado. Regresa al último Prie Dieu descansado después de 2 segundos de canalización, mientras que también obtiene 2 segundos de invulnerabilidad e inmunidad al aturdimiento al lanzar el hechizo.",
+            "description":"Festivo cante con el que se recibía a los marineros que habiéndoseles dado por muertos, ahogados en las frías aguas, arribaban aun así a tierra firme. Invocarla te transporta al último prie-dieu en el que rezaste.",
+            "lore":"Lady of the blue light,\nCast out the shadows from my corner.\nTake away the darkness from my looking glass,\nWhere the light has died.\n\nLady, bring us warmth,\nWith your lamp of the sun.\nTake away the cold, take away the ice,\nFrom this sea of pain.\n",
+            "img":"https://preview.redd.it/i-recently-started-playing-blasphemous-and-ive-seen-the-v0-39f3tqw2b1ia1.png?width=881&format=png&auto=webp&s=7df29e5c70c2bf89abe209cec1d88007a15dfaee",
+            "location":"https://static.wikia.nocookie.net/blasphemous/images/5/58/Screenshot_Location_Mirabr%C3%A1s_of_the_Return_to_Port.jpg/revision/latest/scale-to-width-down/1000?cb=20230828120220"
+        },
+        "romance a la bruma carmesi":{
+            "name":"Romance a la Bruma Carmesí",
+            "get":"Se consigue en la Biblioteca de las Palabras Negadas, al resolver un puzle.",
+            "use":"Esta oración genera nieblas venenosas de color carmesí que emanan del Penitente y permanecen en la posición liberada durante un breve periodo. Se liberan nubes de veneno cada 1 segundo, con una duración de 3 segundos, durante los cuales ataca a los enemigos dentro de la nube cada 0,5 segundos, infligiéndoles 25 puntos de daño tóxico. El daño causado por las nubes genera el mismo fervor que tu ataque normal (0,75).",
+            "description":"Oración a las nieblas de sangre, fruto del verdadero fervor. De la piel de Penitente surgen vapores de sangre bendita, que dañan a quienes los atraviesen.",
+            "lore":"Sangre ardiente\nQue respiras por mi cuerpo\n\nSangre de vino tinto\nSangre de vino negro\n\nSal por mi piel\nSal por mis huesosaway the ice,\nFrom this sea of pain.\n",
+            "img":"https://static.wikia.nocookie.net/blasphemous/images/0/0f/Romance_to_the_Crimson_Mist.gif/revision/latest?cb=20200811230914",
+            "location":"https://static.wikia.nocookie.net/blasphemous/images/6/6d/Screenshot_Location_Romance_to_the_Crimson_Mist.jpg/revision/latest/scale-to-width-down/1000?cb=20190918191947"
+        },
+        "saeta dolorosa":{
+            "name":"Saeta Dolorosa",
+            "get":"Recibido al arrodillarte ante la tumba de la Señora de la Bata de Cola en Donde se Marchitan los Olivos, accediendo al lugar al terminar la misión de Gémino o lanzándote al vacío con el Lienzo de Hilo de Oro equipado.",
+            "use":"Esta oración proporciona una ligera regeneración a la salud del Penitente por cada golpe asestado a un enemigo. Todo el daño que infliges te cura un 15% del daño recibido.",
+            "description":"El dolor de la carne representaba la penitencia definitiva, el desapego del ser en forme persecución de la virtud. Este triste y desesperado canto rebosa de convicción, y recompensa a quien lo implora con energía vital al golpear a sus enemigos.",
+            "lore":"Déjame penar, déjame sufrir\nQue llaga mía es una menos en tí\n\nDéjame sangrar, déjame sentir\nQue un corte mío es caricia en tí\n\nDéjame llorar, déjame gemir\nQue todas mis lágrimas son solo para mí\n",
+            "img":"https://static.wikia.nocookie.net/blasphemous/images/1/16/Saeta_Dolorosa.gif/revision/latest?cb=20200811231941",
+            "location":"https://static.wikia.nocookie.net/blasphemous/images/d/df/Screenshot_Location_Saeta_Dolorosa.jpg/revision/latest/scale-to-width-down/1000?cb=20190921165902"
+        },
+        "seguiriya a tus luceros":{
+            "name":"Següiriya a Tus Luceros",
+            "get":"Se consigue en Tumba de la Misericordia, de un cofre, justo antes de encontrar una emboscada.",
+            "use":"Esta oración otorga un aumento en la velocidad de ataque del Penitente durante un breve período. Mientras está activa, el Penitente no puede realizar ataques cargados ni regenerar fervor con ataques básicos. Aumenta la velocidad de ataque en un 40%, a la vez que desactiva los ataques cargados.",
+            "description":"Breve canto a los cielos nocturnos. Embarga a Penitente con la furia de los justos, aumentando la velocidad de sus ataques por un tiempo.",
+            "lore":"Hay una niña con dos luceros\nQue cuando me mira a su vera me quedo\n\nDicen que es santa, que bajó del cielo\nNo llores niña que por el camino me pierdo\n\n¿Qué es lo que suena?\nLas campanas a lo lejos\n\n¿Qué es lo que llora?\nEn su carita dos luceros.\n",
+            "img":"https://static.wikia.nocookie.net/blasphemous/images/2/20/Seguiriya_to_your_Eyes_like_Stars.gif/revision/latest?cb=20200811232021",
+            "location":"https://static.wikia.nocookie.net/blasphemous/images/e/e3/Screenshot_Location_Seguiriya_to_your_Eyes_like_Stars.jpg/revision/latest/scale-to-width-down/1000?cb=20190911202059"
+        },
+        "solea de la excomunion":{
+            "name":"Soleá de la Excomunión",
+            "get":"Se consigue en Jondo. Necesitas Tres Lenguas Nudosas para alcanzar el cofre donde está.",
+            "use":"Esta oración aumenta el daño de los ataques con espada al potenciar el daño y multiplicar otras mejoras de daño, permitiendo solo los dos primeros ataques del combo y mostrando visualmente un rastro de golpe más grueso. Los ataques especiales como Ira Pecaminosa (Ataque Cargado) o incluso Estocada Sagrada (Ataque de Carrera) siguen activos y se ven afectados por la mejora de daño. Sangre Ferviente (Ataque de Sangre) es la excepción. Esta oración desactiva el tercer y cuarto ataque del combo.",
+            "description":"Plegaria que inflama la sangre con puro fervor. Durante un tiempo, los rápidos ataques de Penitente son sustituidos por un devastador golpe que destroza a sus enemigos.",
+            "lore":"Perdonadme Padre\nSacadme de este juramento\n\nNo permitáis que vuestro Milagro eterno\nSe apodere de mi alma\nY posesione mi cuerpo\n\nPues al Milagro le temo\nMás que a mi propio tormento\n",
+            "img":"https://static.wikia.nocookie.net/blasphemous/images/e/e8/Solea_of_Excommunication.gif/revision/latest?cb=20200811232042",
+            "location":"https://static.wikia.nocookie.net/blasphemous/images/7/72/Screenshot_Location_Solea_of_Excommunication.jpg/revision/latest/scale-to-width-down/1000?cb=20190921171756"
+        },
+        "tiento a tus cabellos espinados":{
+            "name":"Tiento a Tus Cabellos Espinados",
+            "get":"Este rezo se obtiene al hablar con Cleofás en la iglesia de Albero al final de la misión Renacimiento.",
+            "use":"Esta oración otorga invencibilidad durante 8 segundos, a la vez que le confiere a El Penitente un ligero efecto de imagen residual azul y la imagen de Tentudía aparece cada vez que se bloquea el daño. Mientras esta oración está activa, la generación regular de fervor se desactiva. Otorga invencibilidad e inmunidad al aturdimiento durante 8 segundos.",
+            "description":"Invoca la ayuda de la dama espinada, que protege al Penitente de todo mal durante un corto periodo.",
+            "lore":"Si te llamas Tentudía\nY con las monjas te fuiste\nNo llores ni tengas pena\nQue con tu injusta condena\nLos milagros tú nos diste\n\nSi tus cabellos son las zarzas\nQue en tu cuello hacen sangre\nNo llores ni tengas pena\nPues te damos este cante\nQue cada espina arranque\n",
+            "img":"https://static.wikia.nocookie.net/blasphemous/images/a/a6/Tiento_to_your_Thorned_Hairs.gif/revision/latest?cb=20200811232144",
+            "location":"https://static.wikia.nocookie.net/blasphemous/images/7/73/Albero_Map_Updated.jpg/revision/latest/scale-to-width-down/1000?cb=20210818160953"
+        },
+        "tirana del bastion celeste":{
+            "name":"Tirana del Bastión Celeste",
+            "get":"Encontrada en la parte superior de la Hermandad del Lamento Mudo, a las puertas de la capilla. Necesitas Sangre Perpetuada en Arena para llegar.",
+            "use":"Esta oración proporciona una gigantesca corriente eléctrica con la forma del símbolo Del Retorcido que electrocuta a múltiples objetivos. Invoca una corriente eléctrica que inflige 10 puntos de daño de rayo cada 1,5 segundos, atacando dos veces tanto el lado izquierdo como el derecho. Electrocuta 3 veces en total y puede destruir algunos proyectiles.",
+            "description":"Plegaria que abusa de las bondades del Milagro para santificar el propio aire alrededor de quien la entona. Genera una barrera de relámpagos divinos que dañan a los enemigos que intenten cruzarla.",
+            "lore":"Ya no le temo al castigo\npor no querer saber\nlo que está prohibido,\npor preguntar-más de lo debido,\npor querer mirar\nlo que está tras olivos.\nYo no le temo al castigo\nPues todo viene del Divino.\n",
+            "img":"https://cdn.phototourl.com/free/2026-05-24-5528561b-585d-4fcc-a6db-0096be08158c.png",
+            "location":"https://static.wikia.nocookie.net/blasphemous/images/0/01/Screenshot_Location_Tirana_of_the_Celestial_Bastion.jpg/revision/latest/scale-to-width-down/1000?cb=20230828120328"
+        },
+        "verdiales del pueblo olvidado":{
+            "name":"Verdiales del Pueblo Olvidado",
+            "get":"Se consigue en La Santa Línea",
+            "use":"Esta plegaria proporciona dos proyectiles giratorios que salen disparados del Penitente, desplazándose cada uno a izquierda y derecha por el suelo y las paredes. Viajan rápidamente, disminuyendo gradualmente su velocidad antes de desaparecer. Los proyectiles infligen 18 puntos de daño cada 0,2 segundos, además de otorgar 2 segundos de invulnerabilidad e inmunidad al aturdimiento al lanzar el hechizo.",
+            "description":"Canto que inundaba las fiestas de una aldea perdida. Proyecta su fuerza a través del suelo, y esta persiste por paredes y techos, dañando a los enemigos del Penitente. El resonar de la caracola encintada solía preceder a este cantar, mas ahora sólo queda silencio.",
+            "lore":"Ya llueva, seque o el viento remueva\nEsta tierra bendita sea\n\nYa caminando o dormidos nos tenga\nEsta tierra bendita sea\n\nYa de día, o en noche eterna\nEsta tierra bendita sea\n",
+            "img":"https://static.wikia.nocookie.net/blasphemous/images/7/7e/Verdiales_of_the_Forsaken_Hamlet.gif/revision/latest?cb=20200811232202",
+            "location":"https://static.wikia.nocookie.net/blasphemous/images/f/f5/Verdiales_Ubicacion.jpg/revision/latest?cb=20230806101222&path-prefix=es"
+        },
+        "zambra de la resplandeciente corona":{
+            "name":"Zambra de la Resplandeciente Corona",
+            "get":"Se consigue en el Aljibe Profanado, bien usando la Uña arrancada del barro para alcanzar la plataforma, o el Lienzo de Hilo de Oro para lanzarse desde la zona superior.",
+            "use":"Esta oración aumenta la cantidad de Lágrimas de Enmienda obtenidas, a la vez que le da al Penitente un ligero efecto de imagen residual amarilla. Otorga +30% de Lágrimas de Enmienda.",
+            "description":"Canción entonada a los rayos del sol, que generosamente bañan hasta el más oscuro de los rincones. Su bendición aumenta las Lágrimas cosechadas por Mea Culpa durante un tiempo.",
+            "lore":"No puedo coger tu mano\nAhora que duermes en el viento entre los árboles.\nNo puedo hablarte\nAhora que cantas junto a los grillos de medianoche.\nNo puedo verte\nAhora que miras desde el sol hacia la arena caliente.\nNo puedo olvidarte,\nPues de mí siempre formarás parte.\n",
+            "img":"https://static.wikia.nocookie.net/blasphemous/images/f/f1/Zambra_to_the_Resplendent_Crown.gif/revision/latest?cb=20200811232308",
+            "location":"https://static.wikia.nocookie.net/blasphemous/images/1/10/Screenshot_Children_of_Moonlight_Location_33.jpg/revision/latest/scale-to-width-down/1000?cb=20190918212541"
+        },
+        "zarabanda del refugio seguro":{
+            "name":"Zarabanda del Refugio Seguro",
+            "get":"Recibido de Viridiana después de ayudar a Penitente por tercera vez, o en el Deambulatorio de Su Santidad, antes de las escaleras que llevan al combate contra Escribar.",
+            "use":"Esta oración proporciona dos escudos dorados que emanan del Penitente y giran a su alrededor, infligiendo daño y destruyendo proyectiles. Los escudos infligen 18 puntos de daño al contacto y pueden destruir la mayoría de los proyectiles. Los golpes de los escudos generan el mismo fervor que tu ataque normal (0,75).",
+            "description":"Cantar que bendecía los muros de lugares sagrados. Convoca un escudo incorpóreo que daña a los enemigos, y destruye algunos proyectiles.",
+            "lore":"Nuestro auxilio viene del dolor\nNuestro auxilio viene del castigo\n\nNuestro auxilio no tiene perdón\nNuestro auxilio no tiene salvación\n\nPor eso rezo este canto\nPor eso peno en el corazón\n",
+            "img":"https://static.wikia.nocookie.net/blasphemous/images/8/8d/Zarabanda_of_the_Safe_Haven.gif/revision/latest?cb=20200811232326",
+            "location":"https://static.wikia.nocookie.net/blasphemous/images/9/92/Map_Deambulatory_of_His_Holiness.jpg/revision/latest/scale-to-width-down/1000?cb=20190912215010"
+        }
+    }
+}
