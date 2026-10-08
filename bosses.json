@@ -62,7 +62,7 @@
     "melquiades el arzobispo exhumado":{
         "name":"Melquiades El Arzobispo Exhumado",
         "location":"Madre de Madres",
-        "image":"https://www.korosenai.es/wp-content/uploads/2019/09/melquiades-blasphemous.jpg",
+        "image":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/melquiades-blasphemous.jpg",
         "health":"Normal: 1500\nNG+: 2900",
         "damage type":["Fisico"],
         "lagrimas de enmienda": "Normal: 5500\nNG+: 6600",
