@@ -14,7 +14,7 @@
         "use":"Esta plegaria invoca la ayuda de siete querubines que sobrevuelan al Penitente. Tras fijar un objetivo, se acercan a él, se cargan, adquieren un color azul y disparan un láser una vez antes de desaparecer. Cada uno de los siete querubines inflige 40 puntos de daño con un intervalo mínimo de un segundo.",
         "description":"Antiguo cante a la luna, que llama al auxilio de sus vástagos. Invoca una corte de querubines que acompañan a Penitente, atacando a enemigos cercanos.",
         "lore":"Arrodillados estamos, al suelo miramos\nPero si nos nombráis en voz alta\nMarcharemos en procesión\nA vuestra aurora de castigo\nEsperando vuestro perdón\n\nArrodillados estamos, al suelo miramos\nPero si vuestra mano se alza\nMarcharemos en procesión\nA vuestra aurora de castigo\nEsperando vuestro perdón\n",
-        "img":"https://media1.tenor.com/m/Gf32FTzoZPYAAAAC/blasphemous.gif",
+        "img":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/Campanillero_to_the_Sons_of_the_Aurora_Attack.gif",
         "location":"https://static.wikia.nocookie.net/blasphemous/images/5/59/Campanillero_to_the_Sons_of_the_Aurora_Attack.gif/revision/latest?cb=20200811231515"
     },
     "cante jondo de las tres hermanas":{
@@ -24,7 +24,7 @@
         "description":"Cante imposible de resonar en garganta humana. Nunca existió voz capaz de entonar esta plegaria, que vanamente trata de emular el retumbar de la colosal espiral de hierro invertida. Su ciclópeo rugido destruye los órganos y hace estallar los huesos, dañando gravemente a todos los enemigos cercanos.",
         "lore":"Liberadas, tres rezasteis como una\nLiberadas, tres pedisteis como una\nLiberadas, tres nacisteis como una\n\nLibre y santa, Divina hermosura\nYa no sois tres, ahora sois una.\n",
         "img":"https://i.ytimg.com/vi/smBXVJmsZyY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD65bLj_zbPJhSyAzuoiMjUilCi4w",
-        "location":"https://www.korosenai.es/wp-content/uploads/2020/09/cante-jondo-tres-hermanas.jpg"
+        "location":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/Cante%20Jondo%20a%20las%20tres%20hermanas.gif"
     },
     "debla de las luces":{
         "name":"Debla de las Luces",
@@ -32,7 +32,7 @@
         "use":"Esta plegaria proyecta un gran pilar de luz azul que envuelve al Penitente y cubre sus alrededores. El rayo inflige 4 momentos de 55 de daño cada 0,4 s, y además otorga 2 segundos de invulnerabilidad e inmunidad al aturdimiento al ser lanzado.",
         "description":"Invoca un haz de luz celestial en la posición de Penitente, que castiga con implacable fuerza a los enemigos cercanos.",
         "lore":"Tengo ojos y no puedo veros\nVuestras luces de fuego me ciegan adentro\n\nArriba en el cielo hay palomas de cera\nQue derriten sus alas sembrando la tierra\n\nSi me llamáis, dejad que me queme\nOjos y carne, manos y pelo\nQuiero veros y no puedo\n",
-        "img":"https://static.wikia.nocookie.net/blasphemous/images/4/4c/Debla_of_the_Lights.gif/revision/latest?cb=20200811231830",
+        "img":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/Debla_of_the_Lights.gif",
         "location":"https://blasphemous.wiki.gg/images/archive/20260329085210%21Albero.png?51711e"
     },
     "taranto a la hermana mia":{
@@ -41,7 +41,7 @@
         "use":"Esta plegaria proporciona 3 rayos a la izquierda y a la derecha del Penitente, impactando un total de 8 veces en un lapso de 1,25 segundos. Cada impacto inflige 20 puntos de daño, y recitar la plegaria otorga 2 segundos de invulnerabilidad e inmunidad al aturdimiento.",
         "description":"Plegaria a las tormentas, entonada por gargantas secas y voces quebradas. Invoca rayos abrasadores que atraviesan as nubes, fulminando a los enemigos cercanos.",
         "lore":"Hermana Mía, no te alejes de mí\nQue te tengo presente en mi pecho y en mi corazón\n\nHermana Mía, no me dejes herido de muerte\nQue te tengo presente en mi pecho y en mi sangre\n\nHermana Mía, no dejes de hablarme\nQue te tengo presente en mi pecho y en mi cante\n",
-        "img":"https://static.wikia.nocookie.net/blasphemous/images/c/c7/Taranto_to_My_Sister.gif/revision/latest?cb=20200811232123",
+        "img":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/Taranto_to_My_Sister.gif",
         "location":"https://static.wikia.nocookie.net/blasphemous/images/6/6f/Map_Bridge_of_the_Three_Calvaries.jpg/revision/latest/scale-to-width-down/1000?cb=20190912214920"
     },
     "cantiña de la rosa azul":{
@@ -50,7 +50,7 @@
         "use":"Esta plegaria crea un espejo de cristal flotante que apunta en la misma dirección que El Penitente y libera a Miriam al atacar, asestando un golpe que invoca púas de cristal más allá del punto de impacto inicial. El golpe inicial inflige 100 de daño, y se invocan púas cada 0,2 segundos, infligiendo 40 de daño cada una y dejando a todos los enemigos vulnerables a la ejecución.",
         "description":"Plegaria jamás escrita, que resuena al sujetar un cristal violeta venido de otro mundo. Un juramento de amistad permite atravesar esas frontera, invocando a Miriam a través de la vidriera para atacar y aturdir a enemigos del Penitente con su poderoso acero, Eternal Blue.",
         "lore":"Niña de flores\nY de azules pintada\n\nNiña del espejo\nCubierto de malvas\n\nVuelve a mi vera\nEscucha mi llamada\n\nQue mis ojos vean\ntu noche de magia.\n",
-        "img":"https://i.ytimg.com/vi/sNWlmflZOfM/maxresdefault.jpg",
+        "img":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/VideoProject-ezgif.com-video-to-gif-converter.gif",
         "location":"https://preview.redd.it/all-blue-rose-doorway-locations-v0-hqx612pzzbi61.jpg?width=640&crop=smart&auto=webp&s=af3e5c7dbbe60c1b84966b684317b7cb84b6f296"
     },
     "lorquiana":{
@@ -59,7 +59,7 @@
         "use":"Esta oración proporciona tres rayos que se disparan a través de la pantalla en la dirección en la que mira El Penitente. Cada rayo se dispara con un intervalo de 0,2 segundos e inflige 90 puntos de daño.",
         "description":"Rezo que convoca una andanada de rayos nacidos de la propia esencia del Milagro, atravesando a aquellos que se atreven a enfrentar a Mea Culpa.",
         "lore":"Somos piedras de esta tierra\nSomos brotes de estas ramas\nSomos, en procesión, unidos\nLos que con fervor te claman\n\nOh, Milagro Doloroso\nSácanos de estas llamas.\n",
-        "img":"https://static.wikia.nocookie.net/blasphemous/images/6/65/Lorquiana.gif/revision/latest?cb=20200811231906",
+        "img":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/Lorquiana.gif",
         "location":"https://static.wikia.nocookie.net/blasphemous/images/c/c9/Screenshot_Location_Lorquiana.jpg/revision/latest/scale-to-width-down/1000?cb=20190918192131"
     },
     "mirabras regreso al puerto":{
@@ -68,7 +68,7 @@
         "use":"Esta oración invoca la imagen azul de una dama que sostiene una lámpara que envuelve al Penitente y lo transporta al último Prie Dieu descansado. Regresa al último Prie Dieu descansado después de 2 segundos de canalización, mientras que también obtiene 2 segundos de invulnerabilidad e inmunidad al aturdimiento al lanzar el hechizo.",
         "description":"Festivo cante con el que se recibía a los marineros que habiéndoseles dado por muertos, ahogados en las frías aguas, arribaban aun así a tierra firme. Invocarla te transporta al último prie-dieu en el que rezaste.",
         "lore":"Lady of the blue light,\nCast out the shadows from my corner.\nTake away the darkness from my looking glass,\nWhere the light has died.\n\nLady, bring us warmth,\nWith your lamp of the sun.\nTake away the cold, take away the ice,\nFrom this sea of pain.\n",
-        "img":"https://preview.redd.it/i-recently-started-playing-blasphemous-and-ive-seen-the-v0-39f3tqw2b1ia1.png?width=881&format=png&auto=webp&s=7df29e5c70c2bf89abe209cec1d88007a15dfaee",
+        "img":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/Mirabras.gif",
         "location":"https://static.wikia.nocookie.net/blasphemous/images/5/58/Screenshot_Location_Mirabr%C3%A1s_of_the_Return_to_Port.jpg/revision/latest/scale-to-width-down/1000?cb=20230828120220"
     },
     "romance a la bruma carmesi":{
@@ -77,7 +77,7 @@
         "use":"Esta oración genera nieblas venenosas de color carmesí que emanan del Penitente y permanecen en la posición liberada durante un breve periodo. Se liberan nubes de veneno cada 1 segundo, con una duración de 3 segundos, durante los cuales ataca a los enemigos dentro de la nube cada 0,5 segundos, infligiéndoles 25 puntos de daño tóxico. El daño causado por las nubes genera el mismo fervor que tu ataque normal (0,75).",
         "description":"Oración a las nieblas de sangre, fruto del verdadero fervor. De la piel de Penitente surgen vapores de sangre bendita, que dañan a quienes los atraviesen.",
         "lore":"Sangre ardiente\nQue respiras por mi cuerpo\n\nSangre de vino tinto\nSangre de vino negro\n\nSal por mi piel\nSal por mis huesosaway the ice,\nFrom this sea of pain.\n",
-        "img":"https://static.wikia.nocookie.net/blasphemous/images/0/0f/Romance_to_the_Crimson_Mist.gif/revision/latest?cb=20200811230914",
+        "img":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/Romance_to_the_Crimson_Mist.gif",
         "location":"https://static.wikia.nocookie.net/blasphemous/images/6/6d/Screenshot_Location_Romance_to_the_Crimson_Mist.jpg/revision/latest/scale-to-width-down/1000?cb=20190918191947"
     },
     "saeta dolorosa":{
@@ -86,7 +86,7 @@
         "use":"Esta oración proporciona una ligera regeneración a la salud del Penitente por cada golpe asestado a un enemigo. Todo el daño que infliges te cura un 15% del daño recibido.",
         "description":"El dolor de la carne representaba la penitencia definitiva, el desapego del ser en forme persecución de la virtud. Este triste y desesperado canto rebosa de convicción, y recompensa a quien lo implora con energía vital al golpear a sus enemigos.",
         "lore":"Déjame penar, déjame sufrir\nQue llaga mía es una menos en tí\n\nDéjame sangrar, déjame sentir\nQue un corte mío es caricia en tí\n\nDéjame llorar, déjame gemir\nQue todas mis lágrimas son solo para mí\n",
-        "img":"https://static.wikia.nocookie.net/blasphemous/images/1/16/Saeta_Dolorosa.gif/revision/latest?cb=20200811231941",
+        "img":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/Saeta_Dolorosa.gif",
         "location":"https://static.wikia.nocookie.net/blasphemous/images/d/df/Screenshot_Location_Saeta_Dolorosa.jpg/revision/latest/scale-to-width-down/1000?cb=20190921165902"
     },
     "seguiriya a tus luceros":{
@@ -95,7 +95,7 @@
         "use":"Esta oración otorga un aumento en la velocidad de ataque del Penitente durante un breve período. Mientras está activa, el Penitente no puede realizar ataques cargados ni regenerar fervor con ataques básicos. Aumenta la velocidad de ataque en un 40%, a la vez que desactiva los ataques cargados.",
         "description":"Breve canto a los cielos nocturnos. Embarga a Penitente con la furia de los justos, aumentando la velocidad de sus ataques por un tiempo.",
         "lore":"Hay una niña con dos luceros\nQue cuando me mira a su vera me quedo\n\nDicen que es santa, que bajó del cielo\nNo llores niña que por el camino me pierdo\n\n¿Qué es lo que suena?\nLas campanas a lo lejos\n\n¿Qué es lo que llora?\nEn su carita dos luceros.\n",
-        "img":"https://static.wikia.nocookie.net/blasphemous/images/2/20/Seguiriya_to_your_Eyes_like_Stars.gif/revision/latest?cb=20200811232021",
+        "img":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/Seguiriya_to_your_Eyes_like_Stars.gif",
         "location":"https://static.wikia.nocookie.net/blasphemous/images/e/e3/Screenshot_Location_Seguiriya_to_your_Eyes_like_Stars.jpg/revision/latest/scale-to-width-down/1000?cb=20190911202059"
     },
     "solea de la excomunion":{
@@ -104,7 +104,7 @@
         "use":"Esta oración aumenta el daño de los ataques con espada al potenciar el daño y multiplicar otras mejoras de daño, permitiendo solo los dos primeros ataques del combo y mostrando visualmente un rastro de golpe más grueso. Los ataques especiales como Ira Pecaminosa (Ataque Cargado) o incluso Estocada Sagrada (Ataque de Carrera) siguen activos y se ven afectados por la mejora de daño. Sangre Ferviente (Ataque de Sangre) es la excepción. Esta oración desactiva el tercer y cuarto ataque del combo.",
         "description":"Plegaria que inflama la sangre con puro fervor. Durante un tiempo, los rápidos ataques de Penitente son sustituidos por un devastador golpe que destroza a sus enemigos.",
         "lore":"Perdonadme Padre\nSacadme de este juramento\n\nNo permitáis que vuestro Milagro eterno\nSe apodere de mi alma\nY posesione mi cuerpo\n\nPues al Milagro le temo\nMás que a mi propio tormento\n",
-        "img":"https://static.wikia.nocookie.net/blasphemous/images/e/e8/Solea_of_Excommunication.gif/revision/latest?cb=20200811232042",
+        "img":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/Solea_of_Excommunication.gif",
         "location":"https://static.wikia.nocookie.net/blasphemous/images/7/72/Screenshot_Location_Solea_of_Excommunication.jpg/revision/latest/scale-to-width-down/1000?cb=20190921171756"
     },
     "tiento a tus cabellos espinados":{
@@ -113,7 +113,7 @@
         "use":"Esta oración otorga invencibilidad durante 8 segundos, a la vez que le confiere a El Penitente un ligero efecto de imagen residual azul y la imagen de Tentudía aparece cada vez que se bloquea el daño. Mientras esta oración está activa, la generación regular de fervor se desactiva. Otorga invencibilidad e inmunidad al aturdimiento durante 8 segundos.",
         "description":"Invoca la ayuda de la dama espinada, que protege al Penitente de todo mal durante un corto periodo.",
         "lore":"Si te llamas Tentudía\nY con las monjas te fuiste\nNo llores ni tengas pena\nQue con tu injusta condena\nLos milagros tú nos diste\n\nSi tus cabellos son las zarzas\nQue en tu cuello hacen sangre\nNo llores ni tengas pena\nPues te damos este cante\nQue cada espina arranque\n",
-        "img":"https://static.wikia.nocookie.net/blasphemous/images/a/a6/Tiento_to_your_Thorned_Hairs.gif/revision/latest?cb=20200811232144",
+        "img":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/Tiento_to_your_Thorned_Hairs.gif",
         "location":"https://static.wikia.nocookie.net/blasphemous/images/7/73/Albero_Map_Updated.jpg/revision/latest/scale-to-width-down/1000?cb=20210818160953"
     },
     "tirana del bastion celeste":{
@@ -122,7 +122,7 @@
         "use":"Esta oración proporciona una gigantesca corriente eléctrica con la forma del símbolo Del Retorcido que electrocuta a múltiples objetivos. Invoca una corriente eléctrica que inflige 10 puntos de daño de rayo cada 1,5 segundos, atacando dos veces tanto el lado izquierdo como el derecho. Electrocuta 3 veces en total y puede destruir algunos proyectiles.",
         "description":"Plegaria que abusa de las bondades del Milagro para santificar el propio aire alrededor de quien la entona. Genera una barrera de relámpagos divinos que dañan a los enemigos que intenten cruzarla.",
         "lore":"Ya no le temo al castigo\npor no querer saber\nlo que está prohibido,\npor preguntar-más de lo debido,\npor querer mirar\nlo que está tras olivos.\nYo no le temo al castigo\nPues todo viene del Divino.\n",
-        "img":"https://cdn.phototourl.com/free/2026-05-24-5528561b-585d-4fcc-a6db-0096be08158c.png",
+        "img":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/Tirana.gif",
         "location":"https://static.wikia.nocookie.net/blasphemous/images/0/01/Screenshot_Location_Tirana_of_the_Celestial_Bastion.jpg/revision/latest/scale-to-width-down/1000?cb=20230828120328"
     },
     "verdiales del pueblo olvidado":{
@@ -131,7 +131,7 @@
         "use":"Esta plegaria proporciona dos proyectiles giratorios que salen disparados del Penitente, desplazándose cada uno a izquierda y derecha por el suelo y las paredes. Viajan rápidamente, disminuyendo gradualmente su velocidad antes de desaparecer. Los proyectiles infligen 18 puntos de daño cada 0,2 segundos, además de otorgar 2 segundos de invulnerabilidad e inmunidad al aturdimiento al lanzar el hechizo.",
         "description":"Canto que inundaba las fiestas de una aldea perdida. Proyecta su fuerza a través del suelo, y esta persiste por paredes y techos, dañando a los enemigos del Penitente. El resonar de la caracola encintada solía preceder a este cantar, mas ahora sólo queda silencio.",
         "lore":"Ya llueva, seque o el viento remueva\nEsta tierra bendita sea\n\nYa caminando o dormidos nos tenga\nEsta tierra bendita sea\n\nYa de día, o en noche eterna\nEsta tierra bendita sea\n",
-        "img":"https://static.wikia.nocookie.net/blasphemous/images/7/7e/Verdiales_of_the_Forsaken_Hamlet.gif/revision/latest?cb=20200811232202",
+        "img":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/Verdiales_of_the_Forsaken_Hamlet.gif",
         "location":"https://static.wikia.nocookie.net/blasphemous/images/f/f5/Verdiales_Ubicacion.jpg/revision/latest?cb=20230806101222&path-prefix=es"
     },
     "zambra de la resplandeciente corona":{
@@ -140,7 +140,7 @@
         "use":"Esta oración aumenta la cantidad de Lágrimas de Enmienda obtenidas, a la vez que le da al Penitente un ligero efecto de imagen residual amarilla. Otorga +30% de Lágrimas de Enmienda.",
         "description":"Canción entonada a los rayos del sol, que generosamente bañan hasta el más oscuro de los rincones. Su bendición aumenta las Lágrimas cosechadas por Mea Culpa durante un tiempo.",
         "lore":"No puedo coger tu mano\nAhora que duermes en el viento entre los árboles.\nNo puedo hablarte\nAhora que cantas junto a los grillos de medianoche.\nNo puedo verte\nAhora que miras desde el sol hacia la arena caliente.\nNo puedo olvidarte,\nPues de mí siempre formarás parte.\n",
-        "img":"https://static.wikia.nocookie.net/blasphemous/images/f/f1/Zambra_to_the_Resplendent_Crown.gif/revision/latest?cb=20200811232308",
+        "img":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/Zambra_to_the_Resplendent_Crown.gif",
         "location":"https://static.wikia.nocookie.net/blasphemous/images/1/10/Screenshot_Children_of_Moonlight_Location_33.jpg/revision/latest/scale-to-width-down/1000?cb=20190918212541"
     },
     "zarabanda del refugio seguro":{
@@ -149,7 +149,7 @@
         "use":"Esta oración proporciona dos escudos dorados que emanan del Penitente y giran a su alrededor, infligiendo daño y destruyendo proyectiles. Los escudos infligen 18 puntos de daño al contacto y pueden destruir la mayoría de los proyectiles. Los golpes de los escudos generan el mismo fervor que tu ataque normal (0,75).",
         "description":"Cantar que bendecía los muros de lugares sagrados. Convoca un escudo incorpóreo que daña a los enemigos, y destruye algunos proyectiles.",
         "lore":"Nuestro auxilio viene del dolor\nNuestro auxilio viene del castigo\n\nNuestro auxilio no tiene perdón\nNuestro auxilio no tiene salvación\n\nPor eso rezo este canto\nPor eso peno en el corazón\n",
-        "img":"https://static.wikia.nocookie.net/blasphemous/images/8/8d/Zarabanda_of_the_Safe_Haven.gif/revision/latest?cb=20200811232326",
+        "img":"https://cdn.jsdelivr.net/gh/sanner889/Blasphemous-Bot@main/assets/prayers/Zarabanda_of_the_Safe_Haven.gif",
         "location":"https://static.wikia.nocookie.net/blasphemous/images/9/92/Map_Deambulatory_of_His_Holiness.jpg/revision/latest/scale-to-width-down/1000?cb=20190912215010"
     }
 }
